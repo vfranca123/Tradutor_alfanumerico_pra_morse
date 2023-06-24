@@ -1,0 +1,2 @@
+trabalho desenvolvido em C, em um com computador windows, feito no vscode com um terminal ubunto.
+use make para compilar.
